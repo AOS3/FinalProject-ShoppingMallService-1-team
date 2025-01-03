@@ -1,1 +1,1 @@
-# FinalProject-ShoppingMallService-1-team
+# 쇼핑몰 프로젝트 1팀
